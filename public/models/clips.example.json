@@ -1,0 +1,16 @@
+{
+  "idle": "Idle",
+  "run": "Running",
+  "swing": "Baseball Swing",
+  "bowl": "Baseball Pitching",
+  "cheer": "Victory",
+  "clap": "Clapping",
+  "jump": "Jump",
+  "out": "Defeated",
+  "signal4": "Wave",
+  "signal6": "Cheering",
+  "signalOut": "Pointing",
+  "tint": "shirt|jersey|top",
+  "bat": true,
+  "batOffset": { "pos": [0, 0, 0], "rot": [0, 0, 1.2] }
+}
